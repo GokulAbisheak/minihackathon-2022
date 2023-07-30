@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 const Eligibility = () => {
 	return (
@@ -33,13 +34,9 @@ const Eligibility = () => {
 
 				<div className="flex justify-center">
 					<button className="mt-4 w-48 h-10 rounded bg-black text-white hover:bg-gray-300 hover:text-black transition duration-0 hover:duration-500">
-						<a
-							href="https://bit.ly/minihack22Guideline"
-							target="_blank"
-							rel="noopener noreferrer"
-						>
+						<Link to="/instructions">
 							Get Full Instructions{" "}
-						</a>
+						</Link>
 					</button>
 				</div>
 			</div>

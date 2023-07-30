@@ -1,0 +1,274 @@
+{
+	"data": [
+		{
+			"title": "Sponsor",
+			"description": "These are the Official Rules (“Rules”) that govern how the Mini hackathon 2023 competition operates (the “Competition”). MS Club of SLIIT, Faculty of Computing, Sri Lanka institute of Information technology is the competition sponsor (“Sponsor”)"
+		},
+
+		{
+			"title": "Definitions",
+			"description": "In these rules, “MS club of SLIIT”, “we”, “our” and “us” refers to the competition sponsor, and “you” and “yourself” refers to an eligible entrant."
+		},
+
+		{
+			"title": "Overview",
+			"description": "The mini hackathon is a skill-based competition open to year 1st  year, 2nd year and 3rd year 1st semester, students of the Sri Lanka Institute of Information technology following an undergraduate degree program. Mini hackathon competition seeks to honor the most innovative, accessible, ground-breaking, and appealing software built to change the world and empower youth"
+		},
+
+		{
+			"title": "Entry Period",
+			"description": "The entry period for the competition starts at 00.01 Colombo Local Time(GMT+5.30) on 21st July 2023 and ends on 28th of July 2023(“Entry period”).  Following the entry, selected teams will advance to the preceding rounds.",
+			"table": [
+				{
+					"col1": "Round",
+					"col2": "Mode",
+					"col3": "Start Date",
+					"col4": "End Date"
+				},
+
+				{
+					"col1": "Round 1",
+					"col2": "Virtual",
+					"col3": "21st of July 2023",
+					"col4": "12th of August 2023"
+				},
+
+				{
+					"col1": "Round 2",
+					"col2": "Virtual",
+					"col3": "15th of August 2023",
+					"col4": "21st of August 2023"
+				},
+
+				{
+					"col1": "Round 3",
+					"col2": "Physical",
+					"col3": "25th of August 2023",
+					"col4": "30th of August 2023"
+				}
+			],
+			"note": "Note: Above dates can be changed based on the situation of the country"
+		},
+
+		{
+			"title": "Eligibility",
+			"description": "You are eligible to enter if you meet the following requirements below at the time of entry. For purposes of this Competition, “time of entry” is defined as the most recent date you have submitted an entry into a specific round.",
+			"points": [
+				"You are at least 16 years of age as of 21 July 2023 and are actively enrolled as a student following an undergraduate degree program at Srilanka Institute of Information Technology",
+				"You have not used paid employee’s assistance in creating the mini hackathon entry deliverables",
+				"You are not actively enrolled in any administration role of this competition",
+				"You have not utilized any other competitors IPOs without their permission",
+				"You have not used any stolen/unauthorized resources in creating the deliverables for the competition"
+			],
+			"postDescription": "If you have previously competed in Minihackathon competition, you are eligible to enter but any preceding entry submitted must be substantially new, unique and different from the previous entry."
+		},
+
+		{
+			"title": "Team Formation",
+			"description": "Three(3) members or  four(4) members may submit a single entry as a team. It is recommended that each team carries members from diverse disciplines.",
+			"points": [
+				"The formation of teams between undergraduates following different degree programs or different faculties is allowed",
+				"Each competitor may only belong to one team",
+				"Each Team is solely responsible for its own cooperation and teamwork. In no event will the Sponsor officiate in any dispute regarding the conduct or cooperation of any Team or its members.",
+				"Only one member is required to register their team"
+			]
+		},
+
+		{
+			"title": "How to Enter",
+			"description": "To enter round 1 of the competition, visit http://minihackathon.msclubsliit.org and register as instructed.",
+			"points": [
+				"You may only submit one (1) entry per round and only the first submission is counted while preceding submissions are discarded.",
+				"We will disqualify any incomplete or illegible entries that we receive. We are not responsible for entries that we do not receive for any reason, or for entries that we receive but are not decipherable for any reason."
+			],
+			"postDescription": "If at any time during the Competition, you become ineligible after you’ve submitted an entry, you should proactively remove yourself and your team from any communication media including Whatsapp groups and teams channel."
+		},
+
+		{
+			"title": "Competition Round Details",
+			"description": "Below is the overview of the specifications under each round of the competition."
+		},
+
+		{
+			"title": "Round 1 (Virtual)",
+			"description": "The MiniHackathon competition gives students a chance to pitch their technology project and provide a project plan to be screened and evaluated by a panel of judges. In round 1 there are 4 competition categories to compete under,",
+			"number": [
+				{
+					"title": "Internet of Things (IoT) Solutions:",
+					"points": [
+						"Smart home automation",
+						"Environmental monitoring",
+						"Connected healthcare devices",
+						"Industrial IoT applications",
+						"Wearable technology"
+					]
+				},
+
+				{
+					"title": "Artificial Intelligence (AI) and Machine Learning (ML):",
+					"points": [
+						"Natural language processing applications",
+						"Computer vision and image recognition",
+						"Predictive analytics and data-driven solutions",
+						"Chatbots and virtual assistants",
+						"AI-powered automation"
+					]
+				},
+
+				{
+					"title": "Blockchain and Decentralized Applications",
+					"points": [
+						"Supply chain transparency and traceability",
+						"Digital identity and authentication systems",
+						"Smart contracts and decentralized finance (DeFi)",
+						"Voting and governance solutions",
+						"Asset tokenization"
+					]
+				},
+
+				{
+					"title": "Augmented Reality (AR) and Virtual Reality (VR):",
+					"points": [
+						"Immersive gaming experiences",
+						"Virtual training and simulations",
+						"AR/VR for education and remote collaboration",
+						"Virtual tours and 360-degree experiences",
+						"AR/VR for marketing and advertising"
+					]
+				},
+
+				{
+					"title": "Fintech and Payment Solutions:",
+					"points": [
+						"Peer-to-peer payment platforms",
+						"Budgeting and personal finance management",
+						"Micro-investing and wealth management",
+						"Financial literacy and education tools",
+						"Open banking and financial APIs"
+					]
+				},
+
+				{
+					"title": "E-commerce and Retail Innovations:",
+					"points": [
+						"Personalized shopping experiences",
+						"Augmented reality product visualization",
+						"Inventory management and logistics optimization",
+						"Social commerce and influencer marketing",
+						"Customer engagement and loyalty solutions"
+					]
+				},
+
+				{
+					"title": "Health and Wellness Technologies:",
+					"points": [
+						"Fitness tracking and personalized health apps",
+						"Mental health and well-being support",
+						"Remote patient monitoring and telehealth",
+						"Health data analytics and insights",
+						"AI-assisted diagnostics and disease prevention"
+					]
+				},
+
+				{
+					"title": "Urban Planning and Design:",
+					"points": [
+						"Sustainable city development",
+						"Smart infrastructure solutions",
+						"Public space design and management",
+						"Transportation systems optimization",
+						"Urban regeneration projects"
+					]
+				},
+
+				{
+					"title": "Social Entrepreneurship and Impact Investing:",
+					"points": [
+						"Innovative business models for social good",
+						"Impact measurement and reporting",
+						"Sustainable supply chain solutions",
+						"Access to essential services in underserved areas",
+						"Microfinance and financial inclusion"
+					]
+				},
+
+				{
+					"title": "Digital Ethics and Privacy:",
+					"points": [
+						"Data privacy regulations and frameworks",
+						"Ethical considerations in AI and automation",
+						"Algorithmic transparency and accountability",
+						"Digital rights and user empowerment",
+						"Privacy-preserving technologies"
+					]
+				},
+
+				{
+					"title": "Future of Work:",
+					"points": [
+						"Remote work and digital nomadism",
+						"Gig economy and freelancing platforms",
+						"Upskilling and reskilling initiatives",
+						"Work-life balance and well-being",
+						"Collaboration tools and virtual teams"
+					]
+				},
+
+				{
+					"title": "Sustainable Fashion and Textiles:",
+					"points": [
+						"Circular fashion models",
+						"Ethical sourcing and supply chains",
+						"Textile recycling and upcycling",
+						"Slow fashion and conscious consumerism",
+						"Innovation in sustainable materials"
+					]
+				},
+
+				{
+					"title": "Renewable Technologies for Rural Areas:",
+					"points": [
+						"Off-grid renewable energy solutions",
+						"Clean cooking technologies",
+						"Water purification and sanitation systems",
+						"Agricultural innovations for rural communities",
+						"Digital connectivity and access to information"
+					]
+				},
+
+				{
+					"title": "Disaster Preparedness and Resilience:",
+					"points": [
+						"Early warning systems for natural disasters",
+						"Community-based disaster response initiatives",
+						"Resilient infrastructure and building design",
+						"Climate risk assessment and adaptation strategies",
+						"Disaster recovery and post-disaster rebuilding efforts"
+					]
+				},
+
+				{
+					"title": "Applications related to Cybersecurity:",
+					"points": [
+						"Network security and monitoring",
+						"Data encryption and secure communication",
+						"Cyber threat intelligence and analysis",
+						"Vulnerability assessment and penetration testing",
+						"Identity and access management"
+					]
+				}
+			]
+		},
+
+		{
+			"description": "You may select one category type to assign your entry to. (One team can only compete under one category). The submission must be performed with the following deliverables.",
+			"points": ["Project Proposal: This should be a Microsoft word document or a PDF document no longer than 10 pages(Excluding the report format such as table of content and figure panels) which explains your project and what is the solution that your team is trying to tackle, who your project is for and how you will you bring your project to the market from a technological standpoint.",
+            "Presentation Video: 3 min presentation (a demo video if required) presenting your solution.( PowerPoint or Google Slides can use for presentation slides )",
+            "Software (optional): Usable software if there is any",
+            "Software Instructions(optional): Instruction on how to use the software if there is one",
+            "Prototype(optional): Adobe XD or Figma prototype created demonstrating the software"
+            ],
+            "postDescription": "Round 1 Advancement: All the submissions will be evaluated by Microsoft gold ambassadors and will be marked according to the criteria provided. Top 30 teams spanning across all criteria with the highest cumulative mark will be advancing to the next round."
+		}
+	]
+}
