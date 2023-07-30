@@ -3,8 +3,8 @@ import CountdownTimer from "./CountdownTimer";
 import Logo from "../../assets/logo/mini_hackathon_logo.webp";
 
 const Countdown = () => {
-	const isAwarenessSession = false;
-	let myDate = "08-08-2022";
+	// const isAwarenessSession = false;
+	let myDate = "16-09-2022";
 	myDate = myDate.split("-");
 	let newDate = new Date(myDate[2], myDate[1] - 1, myDate[0]);
 	let month = newDate.toLocaleString("en-us", { month: "long" });
@@ -12,6 +12,7 @@ const Countdown = () => {
 
 	return (
 		<div className="flex justify-center flex-col md:flex-row px-3.5 mt-10">
+			
 			<div className="flex justify-center items-center md:p-10">
 				<img
 					src={Logo}
@@ -23,12 +24,12 @@ const Countdown = () => {
 			<div className="justify-center items-center mt-0 md:mt-0 md:p-10">
 				<div>
 					<CountdownTimer
-						countdownTimestampMs={1660395600000}
+						countdownTimestampMs={1663297200000}
 						month={month}
-						date={13}
+						date={16}
 					/>
 				</div>
-				<div className="text-center mt-5">
+				{/* <div className="text-center mt-5">
 					{isAwarenessSession ? (
 						<a
 							href="/awareness-session/register"
@@ -48,7 +49,7 @@ const Countdown = () => {
 							✍🏼 Register your team
 						</a>
 					)}
-				</div>
+				</div> */}
 			</div>
 		</div>
 	);
